@@ -51,6 +51,13 @@ _______________________
 
 **Note**: *Optifine/Optifabric will not work. Stick with stated mods above*
 _______________________
+**Future Plans:**
+
++ Add mods to improve environmental ambiance, specifically sounds.
++ Add another touch of magic
++ Incorporate a skil system
++ Add simple quests for a few mods
+_______________________
 **Mod/Datapack & API List:**
 
 * Additional Additions 5.0.2
