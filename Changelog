@@ -1,0 +1,64 @@
+v2.0.0r2
+
+- Added recommended datapacks
+- Updated Farsight to latest 1.19.2
+
+
+v2.0.0r
+
+*Added Mods*
+
+- AdventureZ
+- VoidZ
+- Supplementaries
+- Bamboo Everything
+- Mangrove Swamp Huts
+- Traverse
+- Promenade
+- Better Stats
+- Bed Benefits
+- Extended Armor Bars
+- LambdaBetterGrass
+- Passsable Foliage
+- Presence Footsteps
+- Chimes
+- Wonderous Wilds
+- Macaw's Paths, Roofs, & Paintings
+- Dark Paintings
+- Cycle Paintings
+- Biomes In Jars
+- Armor Statues
+- Spirit
+- Coral Reef
+- Croptopia
+- OxiRods
+- End Goblin Traders
+- Explorers Compass
+- Wraith Alloy Forgery
+- Simply Swords
+- Simply Houses
+- Immersive Armors
+- Gobber2
+- The Graveyard
+- Vitalize
+- & accompanying API's
+
+*Mods for Optimization*
+- Spark
+- Lithium
+- Krypton
+- Dash Loader
+- More Culling
+- Cull Leaves
+- Cull Beds
+
+*Other Info*
+
+- Added custom durability HUD and foliage configs
+
+
+v2.0.0
+
+- Updated from 1.17 to 1.19.2
+- Removed outdated and incompatible mods
+- Added mods for optimization
