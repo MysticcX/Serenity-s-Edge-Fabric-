@@ -54,19 +54,20 @@ _______________________
 
 **Note**: *Optifine/Optifabric will not work. Stick with stated mods above*
 _______________________
-![](https://i.imgur.com/CCuSwgs.png)
-![](https://i.imgur.com/ty9YdfN.png)
-![](https://i.imgur.com/swEx3bv.png)
-![](https://i.imgur.com/2u52eiS.png)
-![](https://i.imgur.com/Wt4ug9y.png)
-![](https://i.imgur.com/i52TIxK.png)
-_______________________
 **Future Plans:**
 
 + Add mods to improve environmental ambiance, specifically sounds.
 + Add another touch of magic
 + Incorporate a skil system
 + Add simple quests for a few mods
+_______________________
+![](https://i.imgur.com/hfRNDSB.png)
+![](https://i.imgur.com/ty9YdfN.png)
+![](https://i.imgur.com/swEx3bv.png)
+![](https://i.imgur.com/2u52eiS.png)
+![](https://i.imgur.com/Wt4ug9y.png)
+![](https://i.imgur.com/i52TIxK.png)
+![](https://i.imgur.com/p9MG86C.png)
 _______________________
 **Mod/Datapack & API List:**
 
