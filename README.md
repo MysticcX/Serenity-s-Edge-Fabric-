@@ -1,5 +1,6 @@
 # Serenity's Edge Fabric:
 
+![](https://i.imgur.com/8JUGVH1.png)
 
 **Serenity's Edge is a large modpack inspired by LifeInTheWoods that aims to deliver a more exciting and rewarding experieing through its many immersive mods. SE is a  based on technology, item processing and adventuring!**
 
