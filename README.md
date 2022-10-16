@@ -71,7 +71,7 @@ _______________________
 _______________________
 **Mod/Datapack & API List:**
 
-* Additional Additions 5.0.2
+* Additional Additions 5.1.0
 * Additional Structures 4.1.0
 * Adorn 3.6.1+1.19
 * Advanced Movement 22.8.18
@@ -89,14 +89,18 @@ _______________________
 * Awesome dungeon 3.0.0
 * Awesome dungeon nether 3.0.0
 * Awesome dungeon the end 3.0.0
+* Awesome Flooring 2.5.0.
+* BackSlot 1.2.10
 * Balm 4.5.2+0
-* BCLib 2.1.0
+* BCLib 2.1.2
 * BedBenefits 9.1.2
 * Better Animals Plus 1.19-11.0.7
 * Better Beds 1.2.0
 * Better End 2.1.0
 * Better Nether 7.1.0
 * BetterF3 1.3.2
+* BetterAnimationsCollection
+* Beehive Tooltips 1.5.0
 * Biome Makeover 1.19.2-1.5.12
 * Biome Particle Weather 4.0.2
 * BitsAndChisels 2.7.0
@@ -112,7 +116,10 @@ _______________________
 * Charm 4.2.2
 * CHAS 1.9
 * ChickensShed 1.3.3
-* Chimes 1.1.4
+* Cammies MinecartTweaks 1.6
+* Chimes 1.1.3
+* ConnectibleChains 2.1.3
+* Conveyor Belts 1.8.1
 * Chisel Refabricated 1.4.6
 * ChoiceTheorem's Overhauled Villages 3.1
 * ClickThrough 1.19.1-fabric0.58.5-0.4
@@ -130,20 +137,30 @@ _______________________
 * DarkPaintings 13.1.2
 * DarkUtilities 13.1.2
 * DashLoader 4.1.3
+* DankStorage 4.0.0
+* DarkKore 0.3.1
 * Dawn API 3.5.0
 * Decorative Blocks 3.0.0
 * Deeper And Darker 1.0.2b-fabric
-* Dehydration 1.3.0
+* Dehydration 1.3.1
+* DiagonalFences 4.2.3
+* DiagonalPanes 0.6.4
+* DisplayCase 1.0.3
+* DoABarrelRoll 2.0.1
+* DragonLoot 1.1.2
 * Dramatic Doors (Fabric) 1.19.2-1.3.1
 * DurabilityViewer 0.58.0
+* DynamicSurroundings Remastered 0.1.0
 * Eating Animation 1.9
 * Ecologics 2.1.9
 * EdenRing 0.6.4
 * Effective 1.2.2
+* EasyAnvils 4.0.2
 * Emerald Tools 1.4.30
 * EMI 0.4.0+1.19
 * Enchanted Vertical Slabs 1.5
 * EnchantmentDescriptions 13.0.1
+* EnhancedAttackIndicator 1.0.4
 * Enderscape 0.3.5-1.19.1
 * EndGoblinTraders 1.5.1 
 * EntityCulling-Fabric 1.5.2-mc1.19
@@ -160,23 +177,32 @@ _______________________
 * FallingTree 3.10.0
 * Farsight Mod 1.19.1-2.0
 * Fast Load 1.2.0
+* fauxCustomEntitiyData 2.0.2
 * Flesh2Leather 1.0.3+1.19
 * ForgeConfigAPI Port 4.2.6
 * Forgetmechunck 1.0.4
 * Gear Reborn 1.19-0.1.15
 * Geckolib 3.1.18
 * Glass Doors 3.1.0-beta.1+1.19
+* Gobber 2 2.6.49
+* Goodall 1.1.1
 * GoblinTraders 1.5.2
 * Guard Villagers Fabric 1.19-1.0.16
+* HealthOverlay 7.1.1
+* HeardsPanic 1.0.6
 * Hoe Tweaks 1.8
+* HopoBetterRuinedPortals 1.3.2b
 * Horse Stats Vanilla 4.2.2
 * Husk Spawn 1.9
 * Iceberg 1.0.46
 * Immersive Armors 1.4.2
+* ImersiveWeathering 1.0.1
 * Incendium 5.1.2
 * Indium 1.0.9+mc1.19.2
+* IndustrialRevolution 1.15.1 BETA
 * Industrial Quarry Mod 1.0.2
 * Infusion Table 1.1.0
+* IngredientExtentionAPI 3.0.5
 * Inmis-Retextured 2.7.0-1.19
 * Inventory Profiles Next 1.7.1
 * Iris 1.3.1
@@ -184,30 +210,42 @@ _______________________
 * JamLib 0.4.4
 * Journeymap 5.9.0beta2
 * Jump Over Fences 1.1.0
+* JustEnoughItems 11.3.0.270
+* JustEnoughProfessions 2.0.1
+* JustEnoughResources 1.1.0
 * Keebsz's Battle Towers 0.3.3
 * KleeSlabs 12.1.0
 * Konkrete 1.5.0
 * Krypton 0.2.1
+* KronHUD 2.2.2
 * LambdaBetterGrass 1.3.0
 * LambDynamicLights 2.1.2+1.19
 * Lanterns Belong on Walls 1.4.0-1.19
 * LargeFluidTank 19.0.565
 * LazyDFU 0.1.3
+* Leaves Mod 0.0.1
+* Levelz 1.4.0
 * Library ferret 3.0.0
 * Litematica 0.12.4
 * Lithium 0.8.3
+* LinkedStorage 1.5.1
+* Litematica Tool 1.0.0
+* LoginProtection 1.6
 * MaLiLib 0.13.0
 * MangroveSwampHuts 1.0.0
 * MC Dungeons Weapons 5.0.4-1.19
 * Macaw's Bridges 2.0.3
+* Macaw's Bridges(BYG) 1.0
 * Macaw's Doors 1.0.7
 * Macaw's Fences and Walls 1.0.6
+* Macaw's Fences(BYG) 1.0
 * Macaw's Lights and Lamps 1.0.4
 * Macaw's Paintings 1.0.4
 * Macaw's Paths 1.0.1
 * Macaw's Roofs 2.2.0
 * Macaw's Trapdoors 1.0.6
 * Macaw's Windows 2.0.3
+* MusketMod 1.4.4
 * Medieval Weapons 1.4.0
 * MidnightLib 0.6.0
 * Modern Dynamics 0.3.3-beta
@@ -221,18 +259,24 @@ _______________________
 * MVS 2.5.8 - (NYI)
 * Naturalist 2.1.1
 * Nature's Compass 1.19.2-2.0.4-fabric
+* Nears 1.2.3
 * NiceMod 1.1
 * NPC Variety 2.2.2
 * Nullscape 1.2
 * Nyf's Quivers Fabric-0.5.0-1.19-rc2
 * oωo 0.8.1+1.19
+* OhTheBiomesYou'llGo 2.0.0.11
 * Oxidized 1.7.2
 * OxiRods 1.19.2-5
 * PassableFoliage
 * Passive Shield (Fabric) 2.6
+* Paladin Furniture 1.1.1
 * Patchouli 1.19.2-76-FABRIC
+* Patchouli x TechReborn
+* PhillipsRuins 1.7
 * Physics Mod 2.8.13
 * PigPen 11.1.2
+* Plated 2.3.0
 * Polymorph 0.45.0
 * PresenceFootsteps 1.6.2
 * Pretty Beaches 8.0.0
@@ -241,12 +285,15 @@ _______________________
 * Puzzles Lib 4.3.1
 * QfAPI 4.0.0-beta
 * QuarryPlus 19.1.635
+* QuickShulker 1.3.9
 * Rare Ice 0.5.0
 * Reborn Core 5.3.4
 * Redstone Pen 1.2.18
 * Reese's Sodium Options 1.4.7+mc1.19.2-build.59
+* RefinedCreativeInventory 0.1.2
 * Reinforced Barrels 2.2.1+1.19
 * Reinforced Chests 2.1.2+1.19
+* Reinforced ShulkerBoxes 2.2.0
 * Repurposed Structures 6.1.1+1.19
 * Reroll 1.6.0-1.19
 * ResourcefulLib 1.1.1
@@ -255,11 +302,14 @@ _______________________
 * Ring Of Teleport 1.2.12
 * Rocks 1.6.1
 * Runelic 14.1.2
+* ShulkerBox Tooltip 3.1.3
 * SimpleTech 2.3.0
-* Simply Houses 1.1.3-1.19
-* Simply Swords 1.20-1.19
+* SimpleTeleporters 2.3.1
+* SimplyLight 1.4.3
+* SimplyHouses 1.1.3-1.19
+* SimplySwords 1.20-1.19
 * Skeleton Horse Spawn 2.5
-* Sky Villages 1.0.2.1
+* SkyVillages 1.0.2.1
 * SleepWarp 1.2.0+1.19
 * SlimeChunkF3 1.4
 * Slimy Boyos 5.0.0.3
@@ -275,9 +325,11 @@ _______________________
 * Spiders Produce Webs (Fabric) 2.1
 * Spirit 2.1.12 - (NYI)
 * Starlight 1.1.1
+* StitchedSnow 1.0.5
 * Stoneholm 1.4.4
 * Stray Spawn (Fabric) 2.1
 * Structory 1.2
+* SulfurPotassium 1.1.2
 * Supplementaries 2.2.3
 * Survival Island 0.2.1
 * Sync (Fabric) 4.3
@@ -288,19 +340,23 @@ _______________________
 * This Rocks! 1.6.1
 * ThonkUtil 2.15.4+1.1
 * Time & Wind 1.4.3
+* Tips 8.0.3
 * Towers of the Wild: Additions 1.2.3
 * Towns and Towers - Structure Add-on 1.8.2
 * Traveler's Backpack 1.19.2-8.2.1
 * Traverse 6.0.3
 * Trinkets 3.4.0
 * Tumbleweed 0.5.1
+* TwilightForrest 4.2.299
 * UniversalOres 1.4.2
 * Unstructured 0.5.2+1.19
+* VillageNames 4.0.9
 * Visuality 0.5.1
 * VisualOverhaul 4.1.1
 * Visual Workbench 4.2.0
 * Vitalize 1.0.0 - (NYI)
 * VoidZ 1.0.9 - (NYI)
+* WeepingAngels 43.0.7
 * William Wythers' Overhauled Overworld 3.1.7
 * Wired Redstone 0.4.8+1.19
 * WI Zoom 1.4-MC1.19.2
@@ -308,6 +364,7 @@ _______________________
 * WorldEdit 7.2.12+6240-87f4ae1
 * WorldEditCUI 1.19+01
 * WorldTime 1.19.1-fabric0.58.5-1.3.1
+* WraithHarvestScythes 2.5.3
 * WraithSilkSpawners 1.1.2
 * XP Storage 1.4.3+1.19
 * XP Storage - Trinkets 0.1+1.19
@@ -316,9 +373,9 @@ _______________________
 _______________________
 **Datapacks:**
 
-* TowersOfTheWild(Reworked)
-* RepourposedStructures(MoreVillagers)
-* ChoiceTheorem'sOverhauldVillage(MoreVillagers)
+* TowersOfTheWild-Reworked v4.0.2
+* RepourposedStructures(MoreVillagers Compat) v7
+* ChoiceTheorem'sOverhauldVillage(MoreVillagers Compat) v1-1 
 
 *Datapacks are included within the modpack, apply to selected worlds as normally would.*
 _______________________
