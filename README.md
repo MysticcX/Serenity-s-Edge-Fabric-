@@ -3,15 +3,16 @@
 [![](https://i.imgur.com/8JUGVH1.png)](https://www.technicpack.net/modpack/serenitys-edge-fabric.1874905)
 
 ______________________________________________
-### **All The Mods? Not quite but seems like it.. Welcome to one if not the largest modpack for modern Minecraft with just over 350 mods! This modpack is ran on Fabric for better optimization of its ark full of many mods to work to deliver a better experience while playing.**
+### **All The Mods? Not quite but seems like it.. Welcome to one if not the largest modpack for modern Minecraft with 360 mods! This modpack is ran on Fabric for better optimization of its ark full of many mods to work to deliver a better experience while playing.**
 ______________________________________________
 #### **Serenity's Edge is a large modpack inspired by LifeInTheWoods that aims to deliver a more realistic, serene and exciting experience through its many immersive mods. SE is a modpack based on technology, item processing and adventuring!**
+
 #### **Explore a beautifully landscaped world generated primarily by William Whythers and OhTheBiomes generation and venture out to see what the Serenity experience has to offer but be wary of what may lie on the edge...**
 
 ![](https://i.imgur.com/8qWS2OS.png)
 ![](https://i.imgur.com/CCuSwgs.png)
 _______________________
-**Over 345 Mods
+**360 Mods
 Featuring:**
 
 + **William Wythers x BYG World Generation
