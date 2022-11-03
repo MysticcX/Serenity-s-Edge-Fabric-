@@ -444,9 +444,14 @@ _______________________
 _______________________
 **Datapacks:**
 
-* TowersOfTheWild-Reworked v4.0.2
-* RepourposedStructures(MoreVillagers Compat) v7
-* ChoiceTheorem'sOverhauldVillage(MoreVillagers Compat) v1-1 
+* ChoiceTheorem's Overhauld Village(MoreVillagers)
+* RepurposedStructures: Bountiful
+* RepourposedStructures(MoreVillagers)
+* RepurposedStructures: Yung'sBetterWhichHuts Compat
+* RepurposedStructures: Yung'sBetterStronghold Compat
+* RepurposedStructures: Yung'sBetterDesertTemple Compat
+* RepurposedStructures: Yung'sBetterDungeons Compat
+* TowersOfTheWild(Reworked)
 
-*Datapacks are included within the modpack, apply to selected worlds as normally would.*
+*Datapacks are included within the modpacks paxi folder and will be applied to every world automatically*
 _______________________
