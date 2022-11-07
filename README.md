@@ -33,7 +33,6 @@ _______________________
 
 
 #### - **JourneyMap, Physics & Many More Mods!**
-#### *(Full List Below via GitHub)*
 _______________________
 > ### ***NO Optfine/Optifabric Required!***
 
