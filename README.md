@@ -187,7 +187,7 @@ _______________________
 * Ecologics 2.1.10
 * EdenRing 0.6.4
 * Effective 1.4
-* * EldritchMobs 1.12.7
+* EldritchMobs 1.12.7
 * Emerald Tools 1.4.30
 * EMI 0.4.0+1.19
 * Enchanted Vertical Slabs 1.5
